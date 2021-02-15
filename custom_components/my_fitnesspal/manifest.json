@@ -8,6 +8,6 @@
     "@helto4real"
   ],
   "requirements": [
-    "myfitnesspal==1.13.4"
+    "myfitnesspal==1.16.3"
   ]
 }
